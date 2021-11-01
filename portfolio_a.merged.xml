@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Primo/Desktop/portfolio/portfolio/portfolio_a.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+   <keywords class="- topic/keywords ">
+    <keyword class="- topic/keyword ">portfolio</keyword>
+   </keywords>
+  </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">Portfolio: Jason Guderjahn</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+ <title class="- topic/title ">Portfolio: Jason Guderjahn</title>
+  
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="education"><resourceid appid="education" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">About Me</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">My name is Jason Guderjahn and I am excited to join the professional technical     communication environment.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="my_home_life"><resourceid appid="my_home_life" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">My Home Life</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">I was born and raised in Minnesota, althought I am excited to travel around as I     broaden my horizons, both professionally and personally.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="my_work_life"><resourceid appid="my_work_life" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">My Work Life</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">I am a motivated, dedicated, and punctual individual, and these traits translate     exceptionally well into my professional life.</shortdesc></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="education"><resourceid appid="education" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Education</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In December, 2021, I completed a Bachelor of Science degree in Technical Communication     at Iowa State University.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="school_1"><resourceid appid="school_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Iowa State University, Ames, IA</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="school_2"><resourceid appid="school_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Rosemount High School, Rosemount, MN</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="work_experience"><resourceid appid="work_experience" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Work Experience</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Over the past few years, I have gathered some relevant and valuable experience through     a variety of professional positions.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="work_1"><resourceid appid="work_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Assistant to the Rhetoric and Professional Communication Coordinator</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="work_2"><resourceid appid="work_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">IEOP Student Tutor</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="work_2"><resourceid appid="work_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Communication Consultant at Iowa State University</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="work_2"><resourceid appid="work_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Jet-Black Data Entry Clerk</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_12" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="skills"><resourceid appid="skills" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Skills And Accolades</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section includes a variety of skills that I have developed and accolades that I     have received over the course of my undergraduate career.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="skill_1"><resourceid appid="skill_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Ellen M. Walvoord Scholarship</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="skill_4"><resourceid appid="skill_4" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Adobe InDesign</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="skill_3"><resourceid appid="skill_3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Microsoft 365 Suite</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="task"><topicmeta class="- map/topicmeta " data-topic-id="skill_4"><resourceid appid="skill_4" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Basic HTML and CSS</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+ <topicref is-chapter="true" class="- map/topicref " href="#unique_17" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="references"><resourceid appid="references" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">References</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">These individuals can vouch for my listed work and skills.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="reference_1"><resourceid appid="reference_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Dr. Jo Mackiewicz</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">RPC Coordinator and Professor at Iowa State University</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="reference_2"><resourceid appid="reference_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Joan Chamberlin</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IEOP Director and Professor at Iowa State University</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="task"><topicmeta class="- map/topicmeta " data-topic-id="reference_3"><resourceid appid="reference_3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Dr. Joseph Cheatle</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Director of the Writing and Media Center at Iowa State University.</shortdesc></topicmeta></topicref></topicref>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d190e932" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="education" oid="education" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid-1424011699" value="about:" class="- index/refid " id="d190e228"/><ph class="- topic/ph topic/title-wrapper ">About Me</ph></title>
+  <shortdesc class="- topic/shortdesc ">My name is Jason Guderjahn and I am excited to join the professional technical
+    communication environment.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords ">
+        <opentopic-index:index.entry value="about" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">about</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1424011699" value="about:" class="- index/refid " id="d190e228"/></opentopic-index:index.entry>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body class="- topic/body ">
+    <p class="- topic/p ">Having just graduated from Iowa State, I am excited to apply my gathered knowledge and skills
+      to the professional atmosphere of technical communication. At Iowa State, I majored in
+      technical communication, with a minor in Linguistics.</p>
+  </body>
+<task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="my_home_life" oid="my_home_life" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My Home Life</ph></title>
+  <shortdesc class="- topic/shortdesc ">I was born and raised in Minnesota, althought I am excited to travel around as I
+    broaden my horizons, both professionally and personally.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">I grew up in Rosemount, MN, which is where I spent all of my time up until I went off to
+        college. I excelled academically, although some medical concerns created a tumultuous end to
+        my high school career. I had to attend night classes to graduate on time, and I still
+        managed to graduate near the top of my class. From there, I was accepted by Iowa State
+        University, where I initially went to study engineering. While that coursework did not
+        intrigue me, I was able to find technical communication, which melded the problem solving
+        nature of engineering with the writing aspects that I have always loved. In my free time, I
+        enjoy spending time outside, writing, reading, and expanding my horizons overall. Just as I
+        dedicate myself to my work, I bring the same zeal and enthusiasm to my hobbies as well.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_3" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">My Work Life</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">I am a motivated, dedicated, and punctual individual, and these traits translate     exceptionally well into my professional life.</desc></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="my_work_life" oid="my_work_life" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My Work Life</ph></title>
+  <shortdesc class="- topic/shortdesc ">I am a motivated, dedicated, and punctual individual, and these traits translate
+    exceptionally well into my professional life.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">One primary attribute that I am especially interested in pursuing is that of social justice
+        in technical communication. My coursework at Iowa State and the professional experience that
+        I have gathered there have emphasized the importance of inclusion, diversity, and justice.
+        As I enter the professional world, I intend to cement these ideas into my work.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_2" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">My Home Life</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">I was born and raised in Minnesota, althought I am excited to travel around as I     broaden my horizons, both professionally and personally.</desc></link>
+  </related-links>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="education" oid="education" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid-423522926" value="education:" class="- index/refid " id="d190e311"/><ph class="- topic/ph topic/title-wrapper ">Education</ph></title>
+  <shortdesc class="- topic/shortdesc ">In December, 2021, I completed a Bachelor of Science degree in Technical Communication
+    at Iowa State University.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords ">
+        <opentopic-index:index.entry value="education" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">education</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-423522926" value="education:" class="- index/refid " id="d190e311"/></opentopic-index:index.entry>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body class="- topic/body ">
+    <p class="- topic/p ">While I recently completed my undergraduate studies, I am considering pursuing a master's
+      degree in technical communication as well. </p>
+  </body>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="school_1" oid="school_1" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Iowa State University, Ames, IA</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">Undegraduate Degree<p class="- topic/p ">Major: Technical Communication</p>Minor: Linguistics<p class="- topic/p ">GPA:
+        3.62</p><p class="- topic/p ">Graduated: December, 2021</p></context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_6" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Rosemount High School, Rosemount, MN</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="school_2" oid="school_2" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rosemount High School, Rosemount, MN</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">GPA: 3.97</p>
+      <p class="- topic/p ">Graduated: June, 2017</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_5" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Iowa State University, Ames, IA</linktext></link>
+  </related-links>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="work_experience" oid="work_experience" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid113318729" value="work:" class="- index/refid " id="d190e389"/><ph class="- topic/ph topic/title-wrapper ">Work Experience</ph></title>
+  <shortdesc class="- topic/shortdesc ">Over the past few years, I have gathered some relevant and valuable experience through
+    a variety of professional positions.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords ">
+        <opentopic-index:index.entry value="work" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">work</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid113318729" value="work:" class="- index/refid " id="d190e389"/></opentopic-index:index.entry>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body class="- topic/body ">
+    <p class="- topic/p ">While I pursued my undergraduate degree, I held a number of positions that helped bolster my
+      professional skills and experience at the same time.</p>
+  </body>
+<task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="work_1" oid="work_1" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Assistant to the Rhetoric and Professional Communication Coordinator</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">August 2021 - December 2021<p class="- topic/p ">
+        <ul class="- topic/ul " id="unique_8_Connect_42_ul_a3q_wgq_3rb" nd:nd-id="ul_a3q_wgq_3rb">
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Facilitated communication through the RPC program's email account.</p>
+          </li>
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Oversaw the recruitment process by contacting and responding to both domestic and
+              abroad universities.</p>
+          </li>
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Interviewed members within the program to keep the website up to date.</p>
+          </li>
+          <li class="- topic/li ">
+            <p class="- topic/p ">Practiced business communication and etiquette through online forms.</p>
+          </li>
+        </ul>
+      </p></context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_9" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">IEOP Student Tutor</linktext></link>
+    <link class="- topic/link " href="#unique_10" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Communication Consultant at Iowa State University</linktext></link>
+    <link class="- topic/link " href="#unique_11" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Jet-Black Data Entry Clerk</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="work_2" oid="work_2" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">IEOP Student Tutor</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">September 2021 - December 2021<p class="- topic/p ">
+        <ul class="- topic/ul ">
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Developed lesson plans to best teach English as a Foreign Language students.</p>
+          </li>
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Identified and analyzed specific language skills that students needed to improve
+              upon.</p>
+          </li>
+          <li class="- topic/li " dir="ltr">
+            <p class="- topic/p ">Managed a classroom of students ranging from three to ten individuals.</p>
+          </li>
+          <li class="- topic/li ">
+            <p class="- topic/p ">Conducted informative presentations to provide students with relevant resources.</p>
+          </li>
+        </ul>
+      </p></context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_8" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Assistant to the Rhetoric and Professional Communication Coordinator</linktext></link>
+    <link class="- topic/link " href="#unique_10" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Communication Consultant at Iowa State University</linktext></link>
+    <link class="- topic/link " href="#unique_11" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Jet-Black Data Entry Clerk</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="work_2" oid="work_2" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Communication Consultant at Iowa State University</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">August 2020 - December 2021<ul class="- topic/ul " id="unique_10_Connect_42_ul_pvw_vgq_3rb" nd:nd-id="ul_pvw_vgq_3rb">
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Consulted with students throughout the writing process to ensure prolonged
+            success.</p>
+        </li>
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Built leadership skills by attending professional workshops and providing
+            informative presentations.</p>
+        </li>
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Refined abilities in working as part of a collaborative and professional
+            team.</p>
+        </li>
+        <li class="- topic/li ">Emphasized how to portray information efficiently and clearly to a specified
+          audience.</li>
+      </ul></context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_8" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Assistant to the Rhetoric and Professional Communication Coordinator</linktext></link>
+    <link class="- topic/link " href="#unique_9" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">IEOP Student Tutor</linktext></link>
+    <link class="- topic/link " href="#unique_11" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Jet-Black Data Entry Clerk</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="work_2" oid="work_2" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Jet-Black Data Entry Clerk</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <ul class="- topic/ul " id="unique_11_Connect_42_ul_lwz_lhq_3rb" nd:nd-id="ul_lwz_lhq_3rb">
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Calculated and planned efficient quoting routes for the company.</p>
+        </li>
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Developed social skills while interacting with customers of all
+            demographics.</p>
+        </li>
+        <li class="- topic/li " dir="ltr">
+          <p class="- topic/p " dir="ltr">Entered and analyzed information pertaining to potential customers.</p>
+        </li>
+      </ul>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_8" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Assistant to the Rhetoric and Professional Communication Coordinator</linktext></link>
+    <link class="- topic/link " href="#unique_9" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">IEOP Student Tutor</linktext></link>
+    <link class="- topic/link " href="#unique_10" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Communication Consultant at Iowa State University</linktext></link>
+  </related-links>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="skills" oid="skills" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid113318729" value="work:" class="- index/refid " id="d190e635"/><ph class="- topic/ph topic/title-wrapper ">Skills And Accolades</ph></title>
+  <shortdesc class="- topic/shortdesc ">This section includes a variety of skills that I have developed and accolades that I
+    have received over the course of my undergraduate career.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords ">
+        <opentopic-index:index.entry value="work" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">work</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid113318729" value="work:" class="- index/refid " id="d190e635"/></opentopic-index:index.entry>
+      </keywords>
+    </metadata>
+  </prolog>
+<task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="skill_1" oid="skill_1" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Ellen M. Walvoord Scholarship</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Recipient of the Ellen M. Walvoord Scholarship for excellence in the College of LAS.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_14" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Adobe InDesign</linktext></link>
+    <link class="- topic/link " href="#unique_15" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Microsoft 365 Suite</linktext></link>
+    <link class="- topic/link " href="#unique_16" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Basic HTML and CSS</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="skill_4" oid="skill_4" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Adobe InDesign</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Proficient in Adobe InDesign after taking a dedicated graduate course on technical document
+        design and editing.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_13" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Ellen M. Walvoord Scholarship</linktext></link>
+    <link class="- topic/link " href="#unique_15" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Microsoft 365 Suite</linktext></link>
+    <link class="- topic/link " href="#unique_16" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Basic HTML and CSS</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="skill_3" oid="skill_3" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Microsoft 365 Suite</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Proficient with the applications within the Microsoft 365 suite. These skills were
+        developed through personal research and dedicated coursework.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_13" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Ellen M. Walvoord Scholarship</linktext></link>
+    <link class="- topic/link " href="#unique_14" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Adobe InDesign</linktext></link>
+    <link class="- topic/link " href="#unique_16" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Basic HTML and CSS</linktext></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="skill_4" oid="skill_4" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Basic HTML and CSS</ph></title>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Developed a basic understanding of authoring HTML and CSS code through dedicated
+        coursework.</p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_13" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Ellen M. Walvoord Scholarship</linktext></link>
+    <link class="- topic/link " href="#unique_14" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Adobe InDesign</linktext></link>
+    <link class="- topic/link " href="#unique_15" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Microsoft 365 Suite</linktext></link>
+  </related-links>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="references" oid="references" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><opentopic-index:refID indexid="indexid1384950351" value="reference:" class="- index/refid " id="d190e784"/><ph class="- topic/ph topic/title-wrapper ">References</ph></title>
+  <shortdesc class="- topic/shortdesc ">These individuals can vouch for my listed work and skills.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords ">
+        <opentopic-index:index.entry value="reference" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">reference</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1384950351" value="reference:" class="- index/refid " id="d190e784"/></opentopic-index:index.entry>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body class="- topic/body "/>
+<task class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="reference_1" oid="reference_1" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Dr. Jo Mackiewicz</ph></title>
+  <shortdesc class="- topic/shortdesc ">RPC Coordinator and Professor at Iowa State University</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Dr. Jo Mackiewicz</p>
+      <p class="- topic/p ">
+        <ul class="- topic/ul ">
+          <li class="- topic/li ">Email: jomack@iastate.edu</li>
+          <li class="- topic/li ">Phone: (515)294-8273</li>
+        </ul>
+      </p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_19" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Joan Chamberlin</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">IEOP Director and Professor at Iowa State University</desc></link>
+    <link class="- topic/link " href="#unique_20" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Dr. Joseph Cheatle</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Director of the Writing and Media Center at Iowa State University.</desc></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="reference_2" oid="reference_2" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Joan Chamberlin</ph></title>
+  <shortdesc class="- topic/shortdesc ">IEOP Director and Professor at Iowa State University</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Joan Chamberlin</p>
+      <p class="- topic/p ">
+        <ul class="- topic/ul ">
+          <li class="- topic/li ">Email: joancham@iastate.edu</li>
+          <li class="- topic/li ">Phone: (515)294-3235</li>
+        </ul>
+      </p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_18" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Dr. Jo Mackiewicz</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">RPC Coordinator and Professor at Iowa State University</desc></link>
+    <link class="- topic/link " href="#unique_20" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Dr. Joseph Cheatle</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Director of the Writing and Media Center at Iowa State University.</desc></link>
+  </related-links>
+</task><task class="- topic/topic task/task " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="reference_3" oid="reference_3" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Dr. Joseph Cheatle</ph></title>
+  <shortdesc class="- topic/shortdesc ">Director of the Writing and Media Center at Iowa State University.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      <p class="- topic/p ">Dr. Joseph Cheatle<ul class="- topic/ul " id="unique_20_Connect_42_ul_ilt_bkq_3rb" nd:nd-id="ul_ilt_bkq_3rb">
+          <li class="- topic/li ">Email: jcheatle@iastate.edu</li>
+          <li class="- topic/li ">Phone: (515)294-5411</li>
+        </ul></p>
+    </context>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link class="- topic/link " href="#unique_18" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Dr. Jo Mackiewicz</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">RPC Coordinator and Professor at Iowa State University</desc></link>
+    <link class="- topic/link " href="#unique_19" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Joan Chamberlin</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">IEOP Director and Professor at Iowa State University</desc></link>
+  </related-links>
+</task></topic><opentopic-index:index.groups class="- index/groups " id="d190e932"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">A</opentopic-index:label><opentopic-index:index.entry value="about" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">about</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1424011699" value="about:" class="- index/refid "><oxy:index-link href="#d190e228" class="- index/link ">
+                  [d190e228]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">E</opentopic-index:label><opentopic-index:index.entry value="education" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">education</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-423522926" value="education:" class="- index/refid "><oxy:index-link href="#d190e311" class="- index/link ">
+                  [d190e311]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry value="reference" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">reference</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1384950351" value="reference:" class="- index/refid "><oxy:index-link href="#d190e784" class="- index/link ">
+                  [d190e784]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">W</opentopic-index:label><opentopic-index:index.entry value="work" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">work</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid113318729" value="work:" class="- index/refid "><oxy:index-link href="#d190e389" class="- index/link ">
+                  [d190e389]
+                </oxy:index-link><oxy:index-link href="#d190e635" class="- index/link ">
+                  [d190e635]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>
