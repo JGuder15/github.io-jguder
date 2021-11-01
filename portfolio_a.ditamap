@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Portfolio: Jason Guderjahn</title>
+  <topicmeta>
+   <keywords>
+    <keyword>portfolio</keyword>
+   </keywords>
+  </topicmeta>
+ <topicref href="topics/about_me.dita">
+  <topicref href="tasks/my_home_life_a.dita"/>
+  <topicref href="tasks/my_work_life_a.dita"/>
+ </topicref>
+ <topicref href="topics/education.dita">
+  <topicref href="tasks/school_1.dita"/>
+  <topicref href="tasks/school_2.dita"/>
+ </topicref>
+ <topicref href="topics/work_experience.dita">
+  <topicref href="tasks/work_1.dita"/>
+  <topicref href="tasks/work_2.dita"/>
+  <topicref href="tasks/work_3.dita"/>
+  <topicref href="tasks/work_4.dita"/>
+ </topicref>
+ <topicref href="topics/skills.dita">
+  <topicref href="tasks/skill_1.dita"/>
+  <topicref href="tasks/skill_2.dita"/>
+  <topicref href="tasks/skill_3.dita"/>
+  <topicref href="tasks/skill_4.dita"/>
+ </topicref>
+ <topicref href="topics/references.dita">
+  <topicref href="tasks/reference_1.dita"/>
+  <topicref href="tasks/reference_2.dita"/>
+  <topicref href="tasks/reference_3.dita"/>
+ </topicref>
+</map>
